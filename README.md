@@ -1,3 +1,3 @@
 # rulletgame.github.io
 
-ETO TEST
+This is Free and Open Source RulletGame 
